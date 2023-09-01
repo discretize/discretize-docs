@@ -1,0 +1,3 @@
+[submodule "discretize.eu-rewrite"]
+	path = discretize.eu-rewrite
+	url = https://github.com/discretize/discretize.eu-rewrite
